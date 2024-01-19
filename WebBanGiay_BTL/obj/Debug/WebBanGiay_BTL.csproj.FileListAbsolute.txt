@@ -1,0 +1,177 @@
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\WebBanGiay_BTL.dll.config
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\WebBanGiay_BTL.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\WebBanGiay_BTL.pdb
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csc.exe
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csc.exe.config
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csc.rsp
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csi.exe
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csi.exe.config
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csi.rsp
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.AppContext.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Collections.Immutable.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Console.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Globalization.Calendars.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.IO.Compression.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.IO.FileSystem.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Net.Http.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Net.Sockets.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Reflection.Metadata.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.ValueTuple.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Xml.XPath.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\vbc.exe
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\vbc.exe.config
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\vbc.rsp
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\VBCSCompiler.exe
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\VBCSCompiler.exe.config
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.csproj.AssemblyReference.cache
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.csproj.CoreCompileInputs.cache
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.csproj.CopyComplete
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.dll
+D:\BT_Lap_trinh_WEB\aaa BTL_WebBanGiay\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.pdb
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\WebBanGiay_BTL.dll.config
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\WebBanGiay_BTL.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\WebBanGiay_BTL.pdb
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csc.exe
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csc.exe.config
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csc.rsp
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csi.exe
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csi.exe.config
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csi.rsp
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.AppContext.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Collections.Immutable.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Console.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Globalization.Calendars.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.IO.Compression.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.IO.FileSystem.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Net.Http.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Net.Sockets.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.ValueTuple.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Xml.XPath.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\vbc.exe
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\vbc.exe.config
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\vbc.rsp
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\VBCSCompiler.exe
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\VBCSCompiler.exe.config
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.csproj.AssemblyReference.cache
+D:\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.csproj.CoreCompileInputs.cache
+D:\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.csproj.CopyComplete
+D:\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.dll
+D:\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.pdb
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\WebBanGiay_BTL.dll.config
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\WebBanGiay_BTL.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\WebBanGiay_BTL.pdb
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csc.exe
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csc.exe.config
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csc.rsp
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csi.exe
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csi.exe.config
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\csi.rsp
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.AppContext.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Collections.Immutable.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Console.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Globalization.Calendars.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.IO.Compression.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.IO.FileSystem.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Net.Http.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Net.Sockets.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Reflection.Metadata.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.ValueTuple.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Xml.XPath.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\vbc.exe
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\vbc.exe.config
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\vbc.rsp
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\VBCSCompiler.exe
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\roslyn\VBCSCompiler.exe.config
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.csproj.AssemblyReference.cache
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.csproj.CoreCompileInputs.cache
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.csproj.CopyComplete
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.dll
+E:\Bài tập các môn\Lập trình web\WebBanGiay_BTL\WebBanGiay_BTL\obj\Debug\WebBanGiay_BTL.pdb
